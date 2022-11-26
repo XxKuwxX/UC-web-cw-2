@@ -1,0 +1,20 @@
+
+h1{
+    color:blueviolet;
+    text-align: center;
+}
+.card{
+    background-color: aliceblue;
+    width: 500px;
+    background-color: rgb(91, 31, 123);
+    text-align: center;
+    border: 10px solid rgb(0, 15, 128);
+    color:white;
+    margin-left: 32% ;
+}
+body{
+    border-radius: 4px;
+}
+#dish-name{
+    color: white;
+}
